@@ -100,7 +100,7 @@ As imagens a seguir apresentadas foram feitas através da ferramenta adobe xd se
 
 | ![Imagem Check-in](Check_in.jpg )  | ![Imagem Menu do hotel](Menu.jpg )  |  ![Imagem Serviço ginasio](Marcação_Ginasio.jpg ) | ![Imagem Serviço Piscina](Marcação_Piscina.jpg )  |
 |---|---|---|---|
-| *Pagina check-in hotel* | *Pagina menu hotel*  | * Pagina marcação ginasio*  | *Pagina marcação Piscina*  |
+| *Pagina check-in hotel* | *Pagina menu hotel*  | *Pagina marcação ginasio*  | *Pagina marcação Piscina*  |
 + Após então ver a sua reserva confirmada o utilizador terá então de fazer o check-in e então ai sim terá acesso ao menu do hotel onde poderá ir para a marcação no ginasio e na piscina ou pedir o serviço de quartos.
 + Ao clicar num dos botões será redirecionado para uma das pagina onde poderá então marcar o dia e hora que pretende desfrutrar do serviço.
 
