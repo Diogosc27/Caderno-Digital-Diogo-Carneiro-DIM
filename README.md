@@ -69,3 +69,16 @@ Somos nós toda a equipa envolvida no projeto/solução de forma direta ou indir
 
 + Utilizadores Terciários<br>
 São aqueles que não planeámos, não fizemos testes de conteúdo e que não estávamos à espera que utilizassem a nossa app.
+# Mockups entregues para avaliação
+As imagens foram produzidas para um estudo feito para fazer o design que irei apresentar mais á frente para a aplicação.
+| ![Imagem Check-in](Check-in.png)  | ![Imagem Check-in](Check-in2.png)  |  ![Imagem Check-out](Check-out.png) | ![Imagem Check-out](Check-out2.png )  |
+|---|---|---|---|
+| Mockup check-in  | Mockup confirmação check-in  | Mockup check-out  | Mockup confirmação check-out  |
+
+| ![Imagem Pagina inicial](1-Pagina_inicial.png)  | ![Imagem Login](Fazer_login.png)  |  ![Imagem Serviço ginasio](Serviço_ginasio.png) | ![Imagem Serviço spa](Serviço_spa.png )  |
+|---|---|---|---|
+| Mockup Pagina inicial | Mockup Login  | Mockup Serviço ginasio  | Mockup Serviço Spa  |
+
+| ![Imagem Serviço restaurante](Serviços_restaurante.png )  | 
+|---|
+| Mockup Serviço restaurante |
